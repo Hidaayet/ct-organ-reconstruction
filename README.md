@@ -20,6 +20,14 @@ using Marching Cubes surface reconstruction.*
 ```
 CT Volume → HU Thresholding → Morphological Cleanup → Marching Cubes → 3D Mesh → PyVista
 ```
+## How to run
+```bash
+# install dependencies
+pip install numpy scipy scikit-image matplotlib
+
+# run the full pipeline
+python run.py
+```
 
 ## Sample outputs
 
