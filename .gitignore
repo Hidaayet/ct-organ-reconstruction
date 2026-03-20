@@ -7,11 +7,8 @@ data/
 *.mhd
 *.raw
 
-# Large outputs
-outputs/
+# Large mesh files only
 *.vtk
-*.stl
-*.ply
 
 # Python cache
 __pycache__/
