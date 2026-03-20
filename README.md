@@ -83,10 +83,12 @@ ct-organ-reconstruction/
 
 - [x] Project defined and documented
 - [x] CT data loading and exploration
-- [x] Organ segmentation
-- [x] 3D surface reconstruction
+- [x] Organ segmentation — bone, lungs, liver, kidneys
+- [x] 3D surface reconstruction — Marching Cubes
+- [x] Multi-view rendering
 - [x] Rotating animation GIF
 - [x] STL mesh export
+- [x] Real DICOM data loading and visualization
 
 ---
 
