@@ -1,0 +1,21 @@
+# CT scan data — large files
+data/
+*.dcm
+*.nii
+*.nii.gz
+*.mha
+*.mhd
+*.raw
+
+# Large outputs
+outputs/
+*.vtk
+*.stl
+*.ply
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
